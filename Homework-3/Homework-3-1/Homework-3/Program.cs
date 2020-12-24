@@ -61,6 +61,7 @@ namespace Homework_3
                     Console.Write("\t");
                 }
             }
+
         }
     }
 }
